@@ -63,9 +63,7 @@ Welcome to **Music Player GO**, your go-to local Android music player that strik
 [<img src="https://raw.githubusercontent.com/enricocid/fdroid-custom-badges/main/badge_get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/packages/com.iven.musicplayergo/)
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-    alt="Get it on Google Play"
-    height="80">](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
+
   
 # Features
 
